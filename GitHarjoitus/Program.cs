@@ -11,6 +11,8 @@ namespace GitHarjoitus
         static void Main(string[] args)
         {
             Console.WriteLine("1+1 = Kaksi");
+
+            Console.WriteLine("Hello World!");
         }
     }
 }
